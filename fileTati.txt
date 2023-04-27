@@ -1,6 +1,10 @@
 work with merge branch
+NewBranch
+work with merge conflict
+work with merge conflict
+
 
 1 Комментарий от Станислава. Проверяем конфликты
 2 Vladimir my comment
 3 +++++++
-
+ master
