@@ -1,7 +1,11 @@
-import React from 'react'
+import React from "react";
 
 export default function Header() {
   return (
-    <div>Header</div>
-  )
+    <nav>
+      <a href="">Home</a>
+      <a href="">Contacts</a>
+      <a href="">Products</a>
+    </nav>
+  );
 }
