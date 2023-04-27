@@ -1,1 +1,4 @@
 work with merge branch
+
+1 Комментарий от Станислава. Проверяем конфликты
+2 Vladimir my comment
