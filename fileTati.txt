@@ -1,2 +1,3 @@
 work with merge branch
 work with merge conflict
+work with merge conflict
