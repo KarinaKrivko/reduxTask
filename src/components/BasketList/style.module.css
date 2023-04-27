@@ -1,0 +1,19 @@
+.card{
+    margin: 2px;
+    display: grid;
+    grid-template-columns: 40% 30% 20% 10%;
+    border-bottom: 2px solid rgb(153, 152, 152);
+    padding: 20px 30px;
+    color: rgb(244, 244, 244);
+    background-color: #379c9e;
+    
+}
+.title{
+    margin: 2px;
+    background-color: #d0d0d09a;
+    padding: 20px;
+    color: #83a9a9;
+    font-size: 2rem;
+    font-weight: 700;
+    text-transform: uppercase;
+}
